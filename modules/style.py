@@ -17,11 +17,11 @@ class Ashu(object):
 <b>"""
 
     T1_TEXT = """<b>🌄 ɴᴏᴡ sᴇɴᴅ ᴛʜᴇ ᴛʜᴜᴍʙ ᴜʀʟ
-Eg » `https://graph.org/file/698599feb76711fa080f6.jpg`
+Eg » `https://graph.org/file/c0cd540a087532c65f226.jpg`
 
 ᴏʀ ɪғ ᴅᴏɴ'ᴛ ᴡᴀɴᴛ ᴛʜᴜᴍʙɴᴀɪʟ sᴇɴᴅ = `no`
 
-ᴛᴏ ɢᴇɴᴇʀᴀᴛᴇ ᴛʜᴜᴍʙɴᴀɪʟ ᴜʀʟ ᴜsᴇ ᴛʜɪs ʙᴏᴛ -  @FileToUrlX_Bot 
+ᴛᴏ ɢᴇɴᴇʀᴀᴛᴇ ᴛʜᴜᴍʙɴᴀɪʟ ᴜʀʟ ᴜsᴇ ᴛʜɪs ʙᴏᴛ - @vTelegraphBot 
 ➤ sᴇɴᴅ ɪᴍɢᴀᴇ ɪɴ ʙᴏᴛ
 ➤ Reply `/telegraph`</b>"""
 
